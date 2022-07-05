@@ -9,4 +9,7 @@ public class hello {
     public static void printName(String name) {
         System.out.println("Name is : "+name);
     }
+    public static void printCity() {
+        System.out.println("Pune city it is!!");
+    }
 }
